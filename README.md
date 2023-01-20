@@ -1,2 +1,2 @@
 # LandMarkBook
- With Core Data
+With Table View
